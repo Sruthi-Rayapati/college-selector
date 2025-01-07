@@ -1,6 +1,5 @@
 # EAMCET-college-predictor
 This is an EAMCET College Predictor designed using Python Django Framework
-### Have not used any ML prediction models
 ## Process:
 
 ### 1.Click on the URL specified and enter the details and click on "Submit" 
